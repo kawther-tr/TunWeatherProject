@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TunWeather</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="Gouvernorates">
+        <item> </item>
+        <item>Tunis</item>
+        <item>Ben arous</item>
+        <item>Ariana</item>
+        <item>Manouba</item>
+        <item>Nabeul</item>
+        <item>Zaghwen</item>
+        <item>Beja</item>
+        <item>Jandouba</item>
+        <item>Bizert</item>
+        <item>Sousse</item>
+        <item>Mounastir</item>
+        <item>Mahdia</item>
+        <item>Kairawen</item>
+        <item>Gassrine</item>
+        <item>Sidi bouzid</item>
+        <item>Seliana</item>
+        <item>Sfax</item>
+        <item>Gabes</item>
+        <item>Medenine</item>
+        <item>Gbeli</item>
+        <item>Touzeur</item>
+        <item>Tataouin</item>
+        <item>Le kef </item>
+        <item>Gafsa</item>
+
+    </string-array>
+</resources>
